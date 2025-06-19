@@ -8,7 +8,7 @@
 ## Overview
 
 
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+
 
 ## Deployment
 
